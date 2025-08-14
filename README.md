@@ -1,7 +1,7 @@
 # NVD CVE Feed ETL Connector
 
-**Author:** [Your Name] - [Your Roll Number]  
-**Course:** Software Architecture - SSN CSE  
+**Author:** Srivardhan S - 3122225001704  
+**Course:** Software Architecture - SSN CSE B
 **Institution:** Kyureeus EdTech Program
 
 ## 📋 Project Overview
